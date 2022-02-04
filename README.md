@@ -48,5 +48,5 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" alt="illustrator" width="50" height="50"/> </a> 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rythm-net&show_icons=true&locale=en&layout=compact" alt="rythm-net" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&locale=en" alt="rythm-net" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rythm-net&show_icons=true&locale=en&layout=compact" alt="rythm-net" />
+&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&locale=en" alt="rythm-net" />
