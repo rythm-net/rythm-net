@@ -15,7 +15,7 @@
 * 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / HTML / CSS / SQL / Git**
 * ⚙️ I use daily: ```.c .cpp .java .js .html .css .sql .png .jpeg```
 * 👨‍💻 All of my projects are available at: [https://github.com/rythm-net](https://github.com/rythm-net)
-* 🌱 Learning more about and studying: **.NET, Open Source, React**
+* 🌱 Learning more about and studying: **.NET, Open Source, React, JSON**
 * 📫 How to reach me: **alex.karaneichev@gmail.com**
 
 <h3 align="left">🌍 Find me around the web:</h3>
