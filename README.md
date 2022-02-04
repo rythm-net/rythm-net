@@ -1,8 +1,8 @@
 ## Hi there, I'm Alexander Karaneichev 👋
 
-### Junior developer 
-
+### Junior developer
 ### Skills: C / C++ / Java / JavaScript / HTML / CSS
+
 
 - 🔭 I’m still working on this page. 
 - 
