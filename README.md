@@ -30,8 +30,8 @@
 <a href="https://discord.gg/Harmony#4444" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="Harmony#4444" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🖥 Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">🖥 Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a> 
@@ -48,5 +48,6 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" alt="illustrator" width="50" height="50"/> </a> 
  </p>
 
+<br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rythm-net&show_icons=true&locale=en&layout=compact" alt="rythm-net" /></h3></p>
 <!-- &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&locale=en" alt="rythm-net" /> -->
