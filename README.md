@@ -11,7 +11,7 @@
 ### 🤹🏼 About Me
 * 📚 I am currently studying **Informatics**
 * 🏋🏼 Fitness enthusiastic 
-* ✨ Adobe Creative Cloud experience: **InDesign / Premiere Pro / After Effects / Photoshop / Illustrator**
+* 🎨 Adobe Creative Cloud experience: **InDesign / Premiere Pro / After Effects / Photoshop / Illustrator**
 * 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / HTML / CSS / SQL / Git**
 * ⚙️ I use daily: ```.c .cpp .java .js .html .css .sql .png .jpeg```
 * 👨‍💻 All of my projects are available at: [https://github.com/rythm-net](https://github.com/rythm-net)
