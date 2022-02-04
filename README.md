@@ -1,10 +1,15 @@
 ### **Hi there, I'm Alexander Karaneichev** 👋🏼
 
-## 🤹🏼 Junior developer - determined to become Senior one day 🙏🏼
-### 🖥 Programming experience:
-* *C / C++ / Java / JavaScript / HTML / CSS*
+## Junior developer - determined to become Senior one day
+### 🤹🏼 About Me
+* 📚 I am currently studying **Informatics**
+* 🏋🏼 Fitness enthusiastic 
+* 🖥 Programming experience: **C / C++ / Java / JavaScript / HTML / CSS / SQL**
+* ⚙️ I use daily: ```.c .cpp .java .js .html .css .sql .png .jpeg```
+* 🌱 Learning more about and studying: **.NET, Open Source, React**
+* 📫 How to reach me: **alex.karaneichev@gmail.com**
 
-## 🌍 Social medias
+## 📱 Find me around the web
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=darkblue&color=1CA2F1)](https://www.facebook.com/profile.php?id=100000511272599) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=cyan&color=1CA2F1)](https://twitter.com/kkaraneichev7) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=purple&color=1CA2F1)](https://www.instagram.com/kkaraneichev7/)
