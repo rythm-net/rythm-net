@@ -1,22 +1,52 @@
-### **Hi there, I'm Alexander Karaneichev** 👋🏼
 
-## Junior developer - determined to become Senior one day
+
+<!-- ## 📱 Find me around the web
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=darkblue&color=1CA2F1)](https://www.facebook.com/profile.php?id=100000511272599) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=cyan&color=1CA2F1)](https://twitter.com/kkaraneichev7) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=purple&color=1CA2F1)](https://www.instagram.com/kkaraneichev7/)
+[![GitLab Badge](https://img.shields.io/badge/GitLab-Profile-informational?style=flat&logo=gitlab&logoColor=orange&color=1CA2F1)](https://gitlab.com/rythm-net) -->
+
+<h1 align="center">Hi there, I'm Alexander Karaneichev 👋 </h1>
+<h3 align="center">Junior developer - determined to become Senior one day</h3>
+
+
 ### 🤹🏼 About Me
 * 📚 I am currently studying **Informatics**
 * 🏋🏼 Fitness enthusiastic 
-* 🖥 Programming experience: **C / C++ / Java / JavaScript / HTML / CSS / SQL**
+* 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / HTML / CSS / SQL**
+* 👨‍💻 All of my projects are available at: [https://github.com/rythm-net](https://github.com/rythm-net)
 * ⚙️ I use daily: ```.c .cpp .java .js .html .css .sql .png .jpeg```
 * 🌱 Learning more about and studying: **.NET, Open Source, React**
 * 📫 How to reach me: **alex.karaneichev@gmail.com**
 
-## 📱 Find me around the web
-[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=darkblue&color=1CA2F1)](https://www.facebook.com/profile.php?id=100000511272599) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=cyan&color=1CA2F1)](https://twitter.com/kkaraneichev7) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=purple&color=1CA2F1)](https://www.instagram.com/kkaraneichev7/)
-[![GitLab Badge](https://img.shields.io/badge/GitLab-Profile-informational?style=flat&logo=gitlab&logoColor=orange&color=1CA2F1)](https://gitlab.com/rythm-net)
+<h3 align="left">🌍 Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@kkaraneichev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kkaraneichev7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexander-karaneichev-05a38b200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander karaneichev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16545066/alexander-karaneichev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16545066" height="30" width="40" /></a>
+<a href="https://gitlab.com/rythm-net" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="user:16545066" height="30" width="40" /></a>
+<a href="https://instagram.com/kkaraneichev7" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" alt="kkaraneichev7" height="30" width="40" /></a>
+<a href="https://fb.com/alexander karaneichev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alexander karaneichev" height="30" width="40" /></a>
+<a href="https://discord.gg/Harmony#4444" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="Harmony#4444" height="30" width="40" /></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rythm-net)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">🖥 Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="50" height="50"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="50" height="50"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="50" height="50"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="50" height="50"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
+  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/indesign-cc.svg" alt="indesign" width="50" height="50"/> </a> 
+  <a href="https://www.adobe.com/products/premierepro.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" alt="premierepro" width="50" height="50"/> </a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" alt="AE" width="50" height="50"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="50" height="50"/> </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" alt="illustrator" width="50" height="50"/> </a> 
+ </p>
 
-![GitHub metrics](https://metrics.lecoq.io/rythm-net) 
-
-![Profile views](https://gpvc.arturio.dev/rythm-net)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rythm-net&show_icons=true&locale=en&layout=compact" alt="rythm-net" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&locale=en" alt="rythm-net" /></p>
