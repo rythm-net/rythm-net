@@ -19,8 +19,8 @@
 * 🌱 Learning more about and studying: **.NET, Open Source, React**
 * 📫 How to reach me: **alex.karaneichev@gmail.com**
 
-<h3 align="left">🌍 Connect with me:</h3>
-<p align="left">
+<h3 align="center">🌍 Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/@kkaraneichev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kkaraneichev7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alexander-karaneichev-05a38b200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander karaneichev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16545066/alexander-karaneichev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16545066" height="30" width="40" /></a>
@@ -48,5 +48,5 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" alt="illustrator" width="50" height="50"/> </a> 
  </p>
 
-<h3><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rythm-net&show_icons=true&locale=en&layout=compact" alt="rythm-net" /></h3>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rythm-net&show_icons=true&locale=en&layout=compact" alt="rythm-net" /></h3></p>
 <!-- &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&locale=en" alt="rythm-net" /> -->
