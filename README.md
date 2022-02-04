@@ -1,5 +1,3 @@
-
-
 <!-- ## 📱 Find me around the web
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=darkblue&color=1CA2F1)](https://www.facebook.com/profile.php?id=100000511272599) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=cyan&color=1CA2F1)](https://twitter.com/kkaraneichev7) 
@@ -19,7 +17,7 @@
 * 🌱 Learning more about and studying: **.NET, Open Source, React**
 * 📫 How to reach me: **alex.karaneichev@gmail.com**
 
-<h3 align="left">🌍 Connect with me:</h3>
+<h3 align="left">🌍 Find me around the web:</h3>
 <p align="left">
 <a href="https://twitter.com/@kkaraneichev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kkaraneichev7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alexander-karaneichev-05a38b200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander karaneichev" height="30" width="40" /></a>
