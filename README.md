@@ -13,7 +13,7 @@
 ### 🤹🏼 About Me
 * 📚 I am currently studying **Informatics**
 * 🏋🏼 Fitness enthusiastic 
-* 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / Node.js / HTML / CSS / SQL**
+* 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / HTML / CSS / SQL**
 * 👨‍💻 All of my projects are available at: [https://github.com/rythm-net](https://github.com/rythm-net)
 * ⚙️ I use daily: ```.c .cpp .java .js .html .css .sql .png .jpeg```
 * 🌱 Learning more about and studying: **.NET, Open Source, React**
