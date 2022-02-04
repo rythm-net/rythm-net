@@ -1,6 +1,6 @@
-### **Hi there, I'm Alexander Karaneichev** 👋
+### **Hi there, I'm Alexander Karaneichev** 👋🏼
 
-## 🤹🏼 Junior developer determined to become Senior
+## 🤹🏼 Junior developer determined to become Senior one day 🙏🏼
 ### 🖥 Programming languages experience:
 * *C / C++ / Java / JavaScript / HTML / CSS*
 
