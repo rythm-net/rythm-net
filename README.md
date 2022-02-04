@@ -1,4 +1,4 @@
-## **Hi there, I'm Alexander Karaneichev** 👋
+### **Hi there, I'm Alexander Karaneichev** 👋
 
 ## 🤹🏼 Junior developer determined to become Senior
 ### 🖥 Programming languages experience:
