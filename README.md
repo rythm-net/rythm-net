@@ -2,7 +2,7 @@
 <h3 align="center">Junior developer - determined to become Senior one day</h3>
 
 
-### 🤹🏼 About Me:
+### 🤹🏼 About Me :
 * 📚 I am currently studying **Informatics**
 * 🏋🏼 Fitness enthusiastic 
 * 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / HTML / CSS / SQL / Git**
@@ -11,7 +11,7 @@
 * 🌱 Learning more about and studying: **.NET, Open Source, React, JSON**
 * 📫 How to reach me: **alex.karaneichev@gmail.com**
 
-<h3 align="left">🌍 Find me around the web:</h3>
+<h3 align="left">🌍 Find me around the web :</h3>
 <p align="left">
 <a href="https://twitter.com/@kkaraneichev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kkaraneichev7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alexander-karaneichev-05a38b200" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="alexander karaneichev" height="30" width="40" /></a>
@@ -22,7 +22,7 @@
 <a href="https://discord.gg/Harmony#4444" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="Harmony#4444" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🖥 Languages and Tools:</h3>
+<h3 align="left">🖥 Languages and Tools :</h3>
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> 
