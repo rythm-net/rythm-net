@@ -1,9 +1,3 @@
-<!-- ## 📱 Find me around the web
-[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=darkblue&color=1CA2F1)](https://www.facebook.com/profile.php?id=100000511272599) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=cyan&color=1CA2F1)](https://twitter.com/kkaraneichev7) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=purple&color=1CA2F1)](https://www.instagram.com/kkaraneichev7/)
-[![GitLab Badge](https://img.shields.io/badge/GitLab-Profile-informational?style=flat&logo=gitlab&logoColor=orange&color=1CA2F1)](https://gitlab.com/rythm-net) -->
-
 <h1 align="center">Hi there, I'm Alexander Karaneichev 👋 </h1>
 <h3 align="center">Junior developer - determined to become Senior one day</h3>
 
