@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Alexander Karaneichev</h1>
 <h3 align="center">Junior developer - determined to become Senior one day</h3>
-
 <!-- <img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" height="30" width="30"/> -->
 
 ### 🤹🏼 About Me :
@@ -41,6 +40,6 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" alt="illustrator" width="50" height="50"/> </a> 
  </p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rythm-net&show_icons=true&locale=en&layout=compact" alt="rythm-net"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&locale=en" alt="rythm-net" width="370"/></p></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rythm-net&show_icons=true&locale=en&layout=compact" alt="rythm-net" width="46%" float="left" padding="5px"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&locale=en" alt="rythm-net" width="47%" /></p>
 
 <!-- <p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&locale=en" alt="rythm-net" width="370"/></p> -->
