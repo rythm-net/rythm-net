@@ -40,6 +40,6 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" alt="illustrator" width="50" height="50"/> </a> 
  </p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rythm-net&show_icons=true&locale=en&layout=compact" alt="rythm-net" width="47%" float="left" padding="5px"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&locale=en" alt="rythm-net" width="48%" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rythm-net&show_icons=true&locale=en&layout=compact" alt="rythm-net" width="47.5%" float="left" padding="5px"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&locale=en" alt="rythm-net" width="48.5%" /></p>
 
 <!-- <p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&locale=en" alt="rythm-net" width="370"/></p> -->
