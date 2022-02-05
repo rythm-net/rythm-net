@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Alexander Karaneichev 👋 </h1>
+<h1 align="center">Hi there, I'm Alexander Karaneichev <img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" height="30" width="30"/> </h1>
 <h3 align="center">Junior developer - determined to become Senior one day</h3>
 
 
