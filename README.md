@@ -18,7 +18,7 @@
 <a href="https://stackoverflow.com/users/16545066/alexander-karaneichev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16545066" height="30" width="40" /></a>
 <a href="https://gitlab.com/rythm-net" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="user:16545066" height="30" width="40" /></a>
 <a href="https://instagram.com/kkaraneichev7" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" alt="kkaraneichev7" height="30" width="40" /></a>
-<a href="https://fb.com/alexander karaneichev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alexander karaneichev" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100000511272599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alexander karaneichev" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/296674319235547136/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
