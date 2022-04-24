@@ -6,8 +6,8 @@
 * 📚 I am currently studying **Informatics**
 * 🏋🏼 Fitness enthusiastic 
 * 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / HTML / CSS / SQL / Git**
-* ⚙️ I daily use: ```.c .cpp .cs .java .js .html .css .sql .svg .webp .txt .docx .xlsx .mp4 .pdf .psd .png .jpeg .gif```
-* 👨‍💻 All of my projects are available at: [https://github.com/rythm-net](https://github.com/rythm-net)
+* ⚙️ I daily use: ```.c .cpp .cs .java .js .html .css .sql .svg .webp .txt .docx .xlsx .mp4 .pdf .psd```
+* 👨‍💻 All of my projects are available [**HERE !**](https://github.com/rythm-net?tab=repositories)
 * 🌱 Learning more about and studying: **.NET, Open Source, React, JSON**
 * 📫 How to reach me: **alex.karaneichev@gmail.com**
 
