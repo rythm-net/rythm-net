@@ -5,8 +5,8 @@
 ### 🤹🏼 About Me :
 * 📚 I am currently studying **Informatics**
 * 🏋🏼 Fitness enthusiastic 
-* 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / HTML / CSS / SQL / Git**
-* ⚙️ I daily use: ```.c .cpp .cs .java .js .html .css .sql .svg .webp .txt .docx .xlsx .mp4 .pdf .psd```
+* 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / Kotlin / HTML / CSS / SQL / Git**
+* ⚙️ I daily use: ```.c .cpp .cs .java .js .kt .html .css .sql .svg .webp .txt .docx .xlsx .mp4 .pdf .psd```
 * 👨‍💻 All of my projects are available [**HERE !**](https://github.com/rythm-net?tab=repositories)
 * 🌱 Learning more about and studying: **.NET, Open Source, React, JSON**
 * 📫 How to reach me: **alex.karaneichev@gmail.com**
@@ -32,7 +32,7 @@
   <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="50" height="50"/> </a>
   <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="50" height="50"/> </a>
 <!--   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="50" height="50"/> </a> -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="nodejs" width="50" height="50"/> </a>  
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="kotlin" width="50" height="50"/> </a>  
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="50" height="50"/> </a> 
   <a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/indesign-cc.svg" alt="indesign" width="50" height="50"/> </a> 
