@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Alexander Karaneichev</h1>
-<h3 align="center">Junior developer - determined to become Senior one day</h3>
+<h3 align="center">Student at "Plovdiv University" - determined to become a true programmer one day</h3>
 <!-- <img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" height="30" width="30"/> -->
 
 ### 🤹🏼 About Me :
