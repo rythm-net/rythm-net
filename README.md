@@ -1,8 +1,8 @@
 <!-- <h1 align="center">Hi there, I'm Alexander Karaneichev</h1> -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there%20I'm%20Alexander%20Karaneichev&fontSize=40&fontAlign=50&fontAlignY=30&descAlignY=50&color=f7f5f5&desc=Student%20at%20"Plovdiv%20University"%20-%20determined%20to%20become%20a%20true%20programmer%20one%20day)
 <!-- <h2 align="center">Student at "Plovdiv University" - determined to become a true programmer one day</h2> -->
-
-### 🤹🏼 About Me :
+<!-- 
+### 🤹🏼 About Me : -->
 * 📚 I am currently studying **Informatics**
 * 🏋🏼 Fitness enthusiastic 
 * 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / Kotlin / HTML / CSS / SQL / Git**
