@@ -1,8 +1,8 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient) -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there%20I'm%20Alexander%20Karaneichev&fontSize=40&fontAlign=50&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there%20I'm%20Alexander%20Karaneichev&fontSize=40&fontAlign=50&fontAlignY=40&color=E52B2B)
 
 <!-- <h1 align="center">Hi there, I'm Alexander Karaneichev</h1> -->
-<h3 align="center">Student at "Plovdiv University" - determined to become a true programmer one day</h3>
+<h2 align="center">Student at "Plovdiv University" - determined to become a true programmer one day</h3>
 <!-- <img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" height="30" width="30"/> -->
 
 ### 🤹🏼 About Me :
