@@ -1,8 +1,10 @@
 <!-- <h1 align="center">Hi there, I'm Alexander Karaneichev</h1> -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there%20I'm%20Alexander%20Karaneichev&fontSize=40&fontAlign=50&fontAlignY=30&descAlignY=50&color=f7f5f5&desc=Student%20at%20"Plovdiv%20University"%20-%20determined%20to%20become%20a%20true%20programmer%20one%20day)
 <!-- <h2 align="center">Student at "Plovdiv University" - determined to become a true programmer one day</h2> -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there%20I'm%20Alexander%20Karaneichev&fontSize=40&fontAlign=50&fontAlignY=30&descAlignY=50&color=f7f5f5&desc=Student%20at%20"Plovdiv%20University"%20-%20determined%20to%20become%20a%20true%20programmer%20one%20day)
+
 <!-- 
 ### 🤹🏼 About Me : -->
+
 * 📚 I am currently studying **Informatics**
 * 🏋🏼 Fitness enthusiastic 
 * 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / Kotlin / HTML / CSS / SQL / Git**
@@ -24,7 +26,6 @@
 
 <h3 align="left">🖥 Languages and Tools I use :</h3>
 <p align="center">
-<!--   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS" width="50" height="50"/> </a>  -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a> 
@@ -44,5 +45,3 @@
 
 <h3 align="left">📈 My GitHub Stats :</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rythm-net&show_icons=true&locale=en&layout=compact" alt="rythm-net" width="41.9%" float="center" padding=""/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&locale=en" alt="rythm-net" width="49.8%" float="center" padding=""/></p>  
-
-<!-- <p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&locale=en" alt="rythm-net" width="370"/></p> -->
