@@ -105,7 +105,7 @@
             alt="rythm-net" width="41.9%" float="center" padding=""/> 
     <img align="center" 
          src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&locale=en&theme=swift" 
-            alt="rythm-net" width="49.8%" float="center" padding=""/>
+            alt="rythm-net" width="57.5%" float="center" padding=""/>
   </p>  
   
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
