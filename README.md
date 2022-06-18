@@ -102,10 +102,10 @@
   <p align="center">
     <img align="center" 
          src="https://github-readme-stats.vercel.app/api/top-langs?username=rythm-net&show_icons=true&locale=en&layout=compact&theme=swift&langs_count=10" 
-            alt="rythm-net" height="" width="39.8%" float="center" padding=""/> 
+            alt="rythm-net" height="" width="41.9%" float="center" padding=""/> 
     <img align="center" 
          src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&locale=en&theme=swift" 
-            alt="rythm-net" height="" width="54.8%" float="center" padding=""/>
+            alt="rythm-net" height="" width="57.5%" float="center" padding=""/>
   </p>  
   
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
