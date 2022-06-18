@@ -101,10 +101,10 @@
 <h3 align="left">My GitHub Stats:</h3>
   <p align="center">
     <img align="center" 
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=rythm-net&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" 
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=rythm-net&show_icons=true&locale=en&layout=compact&theme=radical" 
             alt="rythm-net" width="41.9%" float="center" padding=""/> 
     <img align="center" 
-         src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&locale=en&theme=codeSTACKr" 
+         src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&locale=en&theme=radical" 
             alt="rythm-net" width="49.8%" float="center" padding=""/>
   </p>  
   
