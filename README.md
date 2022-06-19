@@ -7,7 +7,6 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<!-- * 🏋🏼 Fitness enthusiastic  -->
 * 📚 I am currently studying **Informatics**
 * 🏋🏼 Fitness enthusiastic 
 * 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / Kotlin / HTML / CSS / SQL / Git**
