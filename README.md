@@ -77,7 +77,7 @@
       <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" 
            alt="git" width="50" height="50"/> </a> 
     <a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/indesign-cc.svg" 
+      <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/4_Indesign_Adobe_logo_logos-512.png" 
            alt="indesign" width="50" height="50"/> </a> 
     <a href="https://www.adobe.com/products/premierepro.html" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" 
