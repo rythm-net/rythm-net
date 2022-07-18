@@ -9,12 +9,12 @@
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 * 📚 I am currently studying **Informatics**
-* 🏋🏼 Fitness enthusiastic 
 * 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / Kotlin / HTML / CSS / SQL / Git**
-* ⚙️ I daily use: ```.c .cpp .cs .java .js .kt .html .css .sql .svg .webp .txt .docx .xlsx .pdf .psd .jpeg```
 * 🌱 Learning more about and studying: **.NET, Open Source, React, JSON**
 * 👨‍💻 All of my projects are available [**HERE !**](https://github.com/rythm-net?tab=repositories)
 * 📫 How to reach me: **alex.karaneichev@gmail.com**
+<!-- * 🏋🏼 Fitness enthusiastic  -->
+<!-- * ⚙️ I daily use: ```.c .cpp .cs .java .js .kt .html .css .sql .svg .webp .txt .docx .xlsx .pdf .psd .jpeg``` -->
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h3 align="left">Find me around the web:</h3>
