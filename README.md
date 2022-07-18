@@ -3,7 +3,7 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=170&text=Hi%20there,%20I'm%20Alexander%20Karaneichev&fontSize=40&fontAlign=50&fontAlignY=25&fontColor=FFFFFF&descAlignY=45&color=0:E52B2B,0:E52B2B&desc=Student%20at%20"Plovdiv%20University"%20-%20determined%20to%20become%20a%20true%20programmer%20one%20day)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi%20there,%20I'm%20Alexander%20Karaneichev&fontSize=40&fontAlign=50&fontAlignY=25&fontColor=FFFFFF&descAlignY=47&color=0:E52B2B,0:E52B2B&desc=Student%20at%20"Plovdiv%20University"%20-%20determined%20to%20become%20a%20true%20programmer%20one%20day)
 <!-- color=0:020024,50:56258F,100:B229E4 -->
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
