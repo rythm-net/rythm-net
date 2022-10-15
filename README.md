@@ -9,7 +9,7 @@
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 * 📚 I am currently studying **Informatics**
-* 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / Kotlin / HTML / CSS / SQL / Git**
+* 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / Python / Kotlin / HTML / CSS / SQL / Git**
 * 🌱 Learning more about and studying: **.NET, Open Source, React, JSON**
 * 👨‍💻 All of my projects are available [**HERE !**](https://github.com/rythm-net?tab=repositories)
 * 📫 How to reach me: **alex.karaneichev@gmail.com**
