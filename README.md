@@ -70,7 +70,10 @@
            alt="nodejs" width="50" height="50"/> </a> -->
     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" 
-           alt="kotlin" width="50" height="50"/> </a>  
+           alt="kotlin" width="50" height="50"/> </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" 
+           alt="python" width="50" height="50"/> </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
            alt="java" width="50" height="50"/> </a> 
