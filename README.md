@@ -92,9 +92,9 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" 
            alt="photoshop" width="50" height="50"/> </a>
-    <a href="https://www.lightroom.com/en" target="_blank" rel="noreferrer">
+<!--     <a href="https://www.lightroom.com/en" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/lightroom-cc.svg" 
-           alt="photoshop" width="50" height="50"/> </a>
+           alt="photoshop" width="50" height="50"/> </a> -->
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" 
            alt="illustrator" width="50" height="50"/> </a>
