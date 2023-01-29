@@ -107,7 +107,7 @@
   <p align="center">
     <img align="center" 
          src="https://github-readme-stats.vercel.app/api/top-langs?username=rythm-net&show_icons=true&locale=en&layout=compact&theme=swift&langs_count=8" 
-            alt="rythm-net" height="" width="39.8%" float="center" padding=""/> 
+            alt="rythm-net" height="" width="42.3%" float="center" padding=""/> 
     <img align="center" 
          src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&locale=en&theme=swift" 
             alt="rythm-net" height="" width="54.8%" float="center" padding=""/>
