@@ -72,9 +72,9 @@
     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" 
            alt="kotlin" width="50" height="50"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<!--     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" 
-           alt="nodejs" width="50" height="50"/> </a>
+           alt="nodejs" width="50" height="50"/> </a> -->
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" 
            alt="python" width="50" height="50"/> </a> 
@@ -96,6 +96,9 @@
     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" 
            alt="pyCharm" width="50" height="50"/> </a> 
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" 
+           alt="vsCode" width="50" height="50"/> </a> 
 <!--     <a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer">
       <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/4_Indesign_Adobe_logo_logos-512.png" 
            alt="indesign" width="50" height="50"/> </a>  -->
