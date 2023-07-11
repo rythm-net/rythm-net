@@ -47,58 +47,58 @@
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h3 align="left">My stack:</h3>
-  <p align="center">
+  <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
-           alt="c" width="50" height="50"/> </a> 
+           alt="c" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
-           alt="cplusplus" width="50" height="50"/> </a> 
+           alt="cplusplus" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
-           alt="csharp" width="50" height="50"/> </a> 
+           alt="csharp" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" 
-           alt="css3" width="50" height="50"/> </a> 
+           alt="css3" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" 
-           alt="html5" width="50" height="50"/> </a>
+           alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" 
-           alt="javascript" width="50" height="50"/> </a>
+           alt="javascript" width="40" height="40"/> </a>
 <!--     <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" 
            alt="javascript" width="50" height="50"/> </a> -->
     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" 
-           alt="kotlin" width="50" height="50"/> </a>
+           alt="kotlin" width="40" height="40"/> </a>
 <!--     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" 
            alt="nodejs" width="50" height="50"/> </a> -->
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" 
-           alt="python" width="50" height="50"/> </a> 
+           alt="python" width="40" height="40"/> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" 
-           alt="mysql" width="50" height="50"/> </a> 
+           alt="mysql" width="40" height="40"/> </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-           alt="java" width="50" height="50"/> </a> 
+           alt="java" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" 
-           alt="git" width="50" height="50"/> </a> 
+           alt="git" width="40" height="40"/> </a> 
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" 
-           alt="intelliJ" width="50" height="50"/> </a> 
+           alt="intelliJ" width="40" height="40"/> </a> 
     <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" 
-           alt="webStorm" width="50" height="50"/> </a> 
+           alt="webStorm" width="40" height="40"/> </a> 
     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" 
-           alt="pyCharm" width="50" height="50"/> </a> 
+           alt="pyCharm" width="40" height="40"/> </a> 
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" 
-           alt="vsCode" width="50" height="50"/> </a> 
+           alt="vsCode" width="40" height="40"/> </a> 
 <!--     <a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer">
       <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/4_Indesign_Adobe_logo_logos-512.png" 
            alt="indesign" width="50" height="50"/> </a>  -->
