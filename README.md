@@ -66,39 +66,45 @@
     <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" 
            alt="javascript" width="50" height="50"/> </a>
-<!--     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" 
-           alt="nodejs" width="50" height="50"/> </a> -->
+<!--     <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" 
+           alt="javascript" width="50" height="50"/> </a> -->
     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" 
            alt="kotlin" width="50" height="50"/> </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" 
+           alt="nodejs" width="50" height="50"/> </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" 
            alt="python" width="50" height="50"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" 
+           alt="mysql" width="50" height="50"/> </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
            alt="java" width="50" height="50"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" 
            alt="git" width="50" height="50"/> </a> 
-    <a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer">
+<!--     <a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer">
       <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/4_Indesign_Adobe_logo_logos-512.png" 
-           alt="indesign" width="50" height="50"/> </a> 
-    <a href="https://www.adobe.com/products/premierepro.html" target="_blank" rel="noreferrer">
+           alt="indesign" width="50" height="50"/> </a>  -->
+<!--     <a href="https://www.adobe.com/products/premierepro.html" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" 
-           alt="premierepro" width="50" height="50"/> </a>
-    <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
+           alt="premierepro" width="50" height="50"/> </a> -->
+<!--     <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" 
-           alt="AE" width="50" height="50"/> </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+           alt="AE" width="50" height="50"/> </a>  -->
+<!--     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" 
-           alt="photoshop" width="50" height="50"/> </a>
+           alt="photoshop" width="50" height="50"/> </a> -->
 <!--     <a href="https://www.lightroom.com/en" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/lightroom-cc.svg" 
            alt="photoshop" width="50" height="50"/> </a> -->
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+<!--     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" 
-           alt="illustrator" width="50" height="50"/> </a>
+           alt="illustrator" width="50" height="50"/> </a> -->
 </p>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
