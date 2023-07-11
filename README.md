@@ -11,8 +11,8 @@
 
 * 📚 I am currently studying **Informatics**
 * 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / Python / Kotlin / HTML / CSS / SQL / Git**
-* 🌱 Learning more about and studying: **.NET, Open Source, React, JSON**
-* 👨‍💻 All of my projects are available [**HERE !**](https://github.com/rythm-net?tab=repositories)
+* 🌱 Learning more about: **.NET, AWS, JSON, React, TypeScript**
+* 👨‍💻 Developed some AI Apps and integrated with web and ChatGPT
 * 📫 How to reach me: **alex.karaneichev@gmail.com**
 <!-- * 🏋🏼 Fitness enthusiastic  -->
 <!-- * ⚙️ I daily use: ```.c .cpp .cs .java .js .kt .html .css .sql .svg .webp .txt .docx .xlsx .pdf .psd .jpeg``` -->
@@ -46,7 +46,7 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h3 align="left">Languages and Tools I use:</h3>
+<h3 align="left">My stack:</h3>
   <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
@@ -87,6 +87,15 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" 
            alt="git" width="50" height="50"/> </a> 
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" 
+           alt="intelliJ" width="50" height="50"/> </a> 
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" 
+           alt="webStorm" width="50" height="50"/> </a> 
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" 
+           alt="pyCharm" width="50" height="50"/> </a> 
 <!--     <a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer">
       <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/4_Indesign_Adobe_logo_logos-512.png" 
            alt="indesign" width="50" height="50"/> </a>  -->
