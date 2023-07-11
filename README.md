@@ -19,8 +19,8 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2 align="left">Find me around the web:</h2>
-  <p align="center">
+<h3 align="left">Find me around the web:</h3>
+  <p align="left">
     <a href="https://twitter.com/@kkaraneichev7" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
            alt="@kkaraneichev7" height="30" width="40" /></a>
@@ -46,8 +46,8 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2 align="left">My stack:</h2>
-  <p align="center">
+<h3 align="left">My stack:</h3>
+  <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
            alt="c" width="40" height="40"/> </a> 
@@ -121,7 +121,7 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2 align="left">My GitHub Stats:</h2>
+<h3 align="left">My GitHub Stats:</h3>
   <p align="center">
     <img align="center" 
          src="https://github-readme-stats.vercel.app/api/top-langs?username=rythm-net&show_icons=true&locale=en&layout=compact&theme=swift&langs_count=8" 
