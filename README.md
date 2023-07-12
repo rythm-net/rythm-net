@@ -10,8 +10,6 @@
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
-<h3 align="left">About me:</h3>
-
 * 📚 I am currently studying **Informatics**
 * 🌱 Learning more about: **.NET, AWS, JSON, React, TypeScript**
 * 👨‍💻 Developed some AI Apps and integrated with web and ChatGPT
