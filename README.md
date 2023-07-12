@@ -3,20 +3,21 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi%20there,%20I'm%20Alexander%20Karaneichev&fontSize=40&fontAlign=50&fontAlignY=25&fontColor=FFFFFF&descAlignY=47&color=0:020024,50:56258F,100:B229E4&desc=Student%20at%20"Plovdiv%20University"%20-%20determined%20to%20become%20a%20true%20programmer%20one%20day)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=Front-end%20|%20Backend%20Developer&fontSize=40&fontAlign=50&fontAlignY=25&fontColor=FFFFFF&descAlignY=47&color=0:020024,50:56258F,100:B229E4&desc=Student%20at%20"University%20of%20Plovdiv")
 <!-- color=0:020024,50:56258F,100:B229E4 -->
 <!-- color=0:E52B2B,0:E52B2B -->
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+<h3 align="left">About me:</h3>
 
 * 📚 I am currently studying **Informatics**
-* 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / Python / Kotlin / HTML / CSS / SQL / Git**
 * 🌱 Learning more about: **.NET, AWS, JSON, React, TypeScript**
 * 👨‍💻 Developed some AI Apps and integrated with web and ChatGPT
 * 📫 How to reach me: **alex.karaneichev@gmail.com**
 
+<!-- * 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / Python / Kotlin / HTML / CSS / SQL / Git**  -->
 <!-- * 🏋🏼 Fitness enthusiastic  -->
 <!-- * ⚙️ I daily use: ```.c .cpp .cs .java .js .kt .html .css .sql .svg .webp .txt .docx .xlsx .pdf .psd .jpeg``` -->
 
