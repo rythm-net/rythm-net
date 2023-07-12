@@ -3,7 +3,7 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&text=Front-end%20|%20Backend%20Developer&fontSize=40&fontAlign=50&fontAlignY=30&fontColor=FFFFFF&descAlignY=47&color=0:020024,50:56258F,100:B229E4)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&text=Front-end%20|%20Back-end%20Developer&fontSize=40&fontAlign=50&fontAlignY=30&fontColor=FFFFFF&descAlignY=47&color=0:020024,50:56258F,100:B229E4)
 <!-- color=0:020024,50:56258F,100:B229E4 -->
 <!-- color=0:E52B2B,0:E52B2B -->
 
@@ -52,7 +52,8 @@
   <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
-           alt="c" width="40" height="40"/> </a> 
+           alt="c"
+ width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
            alt="cplusplus" width="40" height="40"/> </a> 
