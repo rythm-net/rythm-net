@@ -101,6 +101,9 @@
     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" 
            alt="pyCharm" width="40" height="40"/> </a> 
+    <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/gitkraken.svg" 
+           alt="gitKraken" width="40" height="40"/> </a> 
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" 
            alt="vsCode" width="40" height="40"/> </a> 
