@@ -11,9 +11,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-* 📚 I am currently studying **Informatics**
+* 📚 I am currently studying ***Informatics*** at ***Univeristy of Plovdiv***
 * 🌱 Learning more about: **.NET, AWS, JSON, React, TypeScript**
-* 👨‍💻 Developed some AI Apps and integrated with web and ChatGPT
+* 👨‍💻 Developed some AI Apps and integrated them with web and ChatGPT
 * 📫 How to reach me: **alex.karaneichev@gmail.com**
 
 <!-- * 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / Python / Kotlin / HTML / CSS / SQL / Git**  -->
@@ -30,7 +30,8 @@
     <a href="https://linkedin.com/in/alexander-karaneichev-05a38b200" target="blank">
       <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" 
            alt="alexander karaneichev" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/16545066/alexander-karaneichev" target="blank">
+    <a href="https://stackoverflow.com/users/16545066/alexander-karaneichev"
+ target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
            alt="user:16545066" height="30" width="40" /></a>
     <a href="https://gitlab.com/rythm-net" target="blank">
