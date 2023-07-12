@@ -126,10 +126,10 @@
 <h3 align="left">My GitHub Stats:</h3>
   <p align="center">
     <img align="center" 
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=rythm-net&show_icons=true&locale=en&layout=compact&theme=swift&langs_count=8" 
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=rythm-net&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true"" 
             alt="rythm-net" height="" width="36.2%" float="center" padding=""/> 
     <img align="center" 
-         src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&locale=en&theme=swift" 
+         src="https://github-readme-stats.vercel.app/api?username=rythm-net&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true"" 
             alt="rythm-net" height="" width="54.8%" float="center" padding=""/>
   </p>
   
