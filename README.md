@@ -3,7 +3,7 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=Front-end%20|%20Backend%20Developer&fontSize=40&fontAlign=50&fontAlignY=25&fontColor=FFFFFF&descAlignY=47&color=0:020024,50:56258F,100:B229E4&desc=Student%20at%20"University%20of%20Plovdiv")
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&text=Front-end%20|%20Backend%20Developer&fontSize=40&fontAlign=50&fontAlignY=30&fontColor=FFFFFF&descAlignY=47&color=0:020024,50:56258F,100:B229E4)
 <!-- color=0:020024,50:56258F,100:B229E4 -->
 <!-- color=0:E52B2B,0:E52B2B -->
 
