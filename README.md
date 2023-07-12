@@ -9,11 +9,14 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+
 * 📚 I am currently studying **Informatics**
 * 🖥 Programming experience: **C / C++ / C# / Java / JavaScript / Python / Kotlin / HTML / CSS / SQL / Git**
 * 🌱 Learning more about: **.NET, AWS, JSON, React, TypeScript**
 * 👨‍💻 Developed some AI Apps and integrated with web and ChatGPT
 * 📫 How to reach me: **alex.karaneichev@gmail.com**
+
 <!-- * 🏋🏼 Fitness enthusiastic  -->
 <!-- * ⚙️ I daily use: ```.c .cpp .cs .java .js .kt .html .css .sql .svg .webp .txt .docx .xlsx .pdf .psd .jpeg``` -->
 
@@ -48,7 +51,78 @@
 
 <h3 align="left">My stack:</h3>
   <p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="icon" width="65" height="65" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="icon" width="65" height="65" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="icon" width="65" height="65" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="icon" width="65" height="65" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="icon" width="65" height="65" />
+      <br>NodeJS
+    </td>
+  </tr>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="icon" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="icon" width="65" height="65" />
+      <br>IntelliJ
+    </td>
+    <td align="center"  width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" alt="icon" width="65" height="65" />
+      <br>WebStorm
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="icon" width="65" height="65" />
+      <br>PyCharm
+    </td>
+    <td align="center"  width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="icon" width="65" height="65" />
+      <br>VS Code
+    </td>
+  </tr>
+</table>
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
            alt="c" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -65,11 +139,11 @@
            alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" 
-           alt="javascript" width="40" height="40"/> </a>
+           alt="javascript" width="40" height="40"/> </a> -->
 <!--     <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" 
            alt="javascript" width="50" height="50"/> </a> -->
-    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+<!--     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" 
            alt="kotlin" width="40" height="40"/> </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -98,7 +172,7 @@
            alt="pyCharm" width="40" height="40"/> </a> 
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" 
-           alt="vsCode" width="40" height="40"/> </a> 
+           alt="vsCode" width="40" height="40"/> </a>  -->
 <!--     <a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer">
       <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/4_Indesign_Adobe_logo_logos-512.png" 
            alt="indesign" width="50" height="50"/> </a>  -->
