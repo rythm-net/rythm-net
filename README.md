@@ -72,9 +72,9 @@
     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" 
            alt="kotlin" width="40" height="40"/> </a>
-<!--     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" 
-           alt="nodejs" width="50" height="50"/> </a> -->
+           alt="nodejs" width="40" height="40"/> </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" 
            alt="python" width="40" height="40"/> </a> 
