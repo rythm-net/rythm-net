@@ -30,8 +30,7 @@
     <a href="https://linkedin.com/in/alexander-karaneichev-05a38b200" target="blank">
       <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" 
            alt="alexander karaneichev" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/16545066/alexander-karaneichev"
- target="blank">
+    <a href="https://stackoverflow.com/users/16545066/alexander-karaneichev"target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
            alt="user:16545066" height="30" width="40" /></a>
     <a href="https://gitlab.com/rythm-net" target="blank">
@@ -54,8 +53,7 @@
   <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
-           alt="c"
- width="40" height="40"/> </a> 
+           alt="c" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
            alt="cplusplus" width="40" height="40"/> </a> 
