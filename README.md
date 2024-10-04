@@ -34,6 +34,9 @@
     <a href="https://discordapp.com/users/296674319235547136/" target="blank">
       <img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" 
            alt="discord" height="30" width="40" /></a>
+    <a href="https://open.spotify.com/user/21oomhmc2syvzbcpm454py2hq?si=c066b9e886d34cae" target="blank">
+      <img align="center" src="https://cdn.worldvectorlogo.com/logos/spotify-2.svg" 
+           alt="spotify" height="30" width="40" /></a>
 </p>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
