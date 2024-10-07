@@ -99,10 +99,10 @@
     <br>
     <img width="35px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
     <img width="34.5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" />
-    <img width="34.5px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.png">
     <img width="34.5px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.png">
     <img width="34.5px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.png">
     <img width="34.5px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png">
+    <img width="34.5px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/Aqua_icon.png">
     <img width="34.5px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png">
     <img width="34.5px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png">
     <img width="34.5px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
