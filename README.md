@@ -11,32 +11,21 @@
 
 <h3>Find me around the web:</h3>
 
-<p>
-  <a href="https://twitter.com/@kkaraneichev" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" alt="twitter" height="30" style="margin-right: 10px;" />
-  </a>
-  <a href="https://stackoverflow.com/users/16545066/alexander-karaneichev" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="stackoverflow" height="30" style="margin-right: 10px;" />
-  </a>
-  <a href="https://gitlab.com/rythm-net" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/gitlab-3.svg" alt="gitlab" height="30" style="margin-right: 10px;" />
-  </a>
-  <a href="https://instagram.com/kkaraneichev" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" alt="instagram" height="30" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.facebook.com/Alexander.Karaneichev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/alexander-karaneichev/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="linkedin" height="30" style="margin-right: 10px;" />
-  </a>
-  <a href="https://discordapp.com/users/296674319235547136/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="discord" height="30" style="margin-right: 10px;" />
-  </a>
-  <a href="https://open.spotify.com/user/21oomhmc2syvzbcpm454py2hq" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/spotify-2.svg" alt="spotify" height="30" />
-  </a>
-</p>
+<a href="https://twitter.com/@kkaraneichev"><img src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" height="30"></a>
+&nbsp;
+<a href="https://stackoverflow.com/users/16545066/alexander-karaneichev"><img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" height="30"></a>
+&nbsp;
+<a href="https://gitlab.com/rythm-net"><img src="https://cdn.worldvectorlogo.com/logos/gitlab-3.svg" height="30"></a>
+&nbsp;
+<a href="https://instagram.com/kkaraneichev"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" height="30"></a>
+&nbsp;
+<a href="https://www.facebook.com/Alexander.Karaneichev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/alexander-karaneichev/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" height="30"></a>
+&nbsp;
+<a href="https://discordapp.com/users/296674319235547136/"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" height="30"></a>
+&nbsp;
+<a href="https://open.spotify.com/user/21oomhmc2syvzbcpm454py2hq"><img src="https://cdn.worldvectorlogo.com/logos/spotify-2.svg" height="30"></a>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
