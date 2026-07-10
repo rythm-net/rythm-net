@@ -44,7 +44,7 @@
   <kbd>
     <kbd>Back-end</kbd>
     <br><br>
-    <img width="29.5px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />
+    <img width="30px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />
     <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
     <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
     <img width="34.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
