@@ -5,7 +5,7 @@
 * 📚 Bachelor of _**Informatics**_, graduate from _**University of Plovdiv**_, currently preparing to pursue a Master's degree
 * 🌱 Learning more about: **Spring, Angular, React and JSON**
 * 👨‍💻 Passionate about leveraging **AI** to solve real-world problems and enhance user experiences
-* 📫 How to reach me: **alex.karaneichev@gmail.com**
+* 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/alexander-karaneichev/)**
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
