@@ -11,7 +11,7 @@
 
 <h3>Find me around the web:</h3>
 
-<a href="https://twitter.com/@kkaraneichev"><img src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" height="30"></a>
+<a href="https://x.com/ape_shaped"><img src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" height="30"></a>
 &nbsp;
 <a href="https://stackoverflow.com/users/16545066/alexander-karaneichev"><img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" height="30"></a>
 &nbsp;
